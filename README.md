@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rayychandana
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on data science project
+- 📫 How to reach me @raychandna22@gmail.com
