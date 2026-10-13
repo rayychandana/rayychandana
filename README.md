@@ -2,4 +2,4 @@
 - 👀 I’m interested in AI engineer
 - 🌱 I’m currently learning New things
 - 💞️ I’m looking to collaborate on AI Projects, ML Projects and data science project
-- 📫 How to reach me @raychandna22@gmail.com
+- 📫 How to reach me @rayychandna@gmail.com
